@@ -19,14 +19,16 @@ Welcome to my GitHub profile!
 ## 📌 What I Do
 
 - 🛠️ Designing and implementing motor control systems for various applications.  
-- 💻 Creating intuitive and responsive user interfaces using **Qt**.  
-- 🐍 Writing efficient and clean Python scripts to automate processes and solve problems.  
+- 💻 Creating intuitive and responsive user interfaces using **Qt**.
+- 🌐 Learning **Embedded Software Development** through training programs, including:  
+  - **Linux Programming**  
+  - **C++ Development**  
+  - **Web Application GUI Development**  
 
 ## 📈 Current Interests
 
-- Exploring embedded systems and robotics  
-- Expanding my knowledge of advanced motion control algorithms  
-- Learning and experimenting with **modern C++ (C++17, C++20)**  
+- Focusing on **motor control** and **GUI development**  
+- Working on **camera video streaming client projects** using Linux
 
 ## 📫 Let's Connect!
 
