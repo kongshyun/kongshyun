@@ -13,8 +13,16 @@ Welcome to my GitHub profile!
   - Motor control and motion systems  
   - GUI development with Qt
 
-- **Education**:  
-  Bachelor's degree in Mechanical System Design Engineering  
+### Development Environments
+- **IDEs & Tools**:  
+  ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) 
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white) 
+  ![Qt Creator](https://img.shields.io/badge/-Qt%20Creator-41CD52?style=flat-square&logo=qt&logoColor=white)  
+  ![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white)  
+
+- **Operating Systems**:  
+  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)  
+  ![Raspbian](https://img.shields.io/badge/-Raspbian-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)  
 
 ## 📌 What I Do
 
