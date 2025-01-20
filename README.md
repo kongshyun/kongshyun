@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Kongshyun!
 
-Welcome to my GitHub profile!
-
 ## 📚 Stacks
 
 - **Programming Languages**:  
@@ -9,9 +7,6 @@ Welcome to my GitHub profile!
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) 
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- **Specialization**:  
-  - Motor control and motion systems  
-  - GUI development with Qt
 
 ### Development Environments
 - **IDEs & Tools**:  
