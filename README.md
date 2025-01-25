@@ -1,6 +1,4 @@
-# 👋 Hello, I'm Kongshyun!
-
-## 📚 Stacks
+### 📚 Stacks
 
 - **Programming Languages**:  
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white) 
@@ -18,26 +16,3 @@
 - **Operating Systems**:  
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)  
   ![Raspbian](https://img.shields.io/badge/-Raspbian-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)  
-
-## 📌 What I Do
-
-- 🛠️ Designing and implementing motor control systems for various applications.  
-- 💻 Creating intuitive and responsive user interfaces using **Qt**.
-- 🌐 Learning **Embedded Software Development** through training programs, including:  
-  - **Linux Programming**  
-  - **C++ Development**  
-  - **Web Application GUI Development**  
-
-## 📈 Current Interests
-
-- Focusing on **motor control** and **GUI development**  
-- Working on **camera video streaming client projects** using Linux
-
-## 📫 Let's Connect!
-
-- Email: [workin.shyun@gmail.com](mailto:your-email@example.com)  
-- GitHub: [your-github-profile](https://github.com/your-username)  
-- Youtube: [https://youtube.com/@shyunnnn-u4v?feature=shared]
----
-
-✨ _Feel free to explore my repositories and connect with me if you share similar interests!_
