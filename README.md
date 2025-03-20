@@ -13,6 +13,7 @@
   ![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white)  
 
 - **Operating Systems**:
+  
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)  
   ![Raspbian](https://img.shields.io/badge/-Raspbian-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)  
